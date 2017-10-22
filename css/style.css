@@ -1,0 +1,76 @@
+.profile-pic{
+	max-width: 100%
+}
+.meeting-pic{
+	max-width: 10%
+}
+a:hover {
+	text-decoration: blue;
+}
+.headline{
+	font-family: Oxygen, cursive;
+	text-align: center;
+}
+.first-progress{
+	background-color: limegreen;
+}
+
+.second-progress{
+	background-color: gold;
+}
+
+.third-progress{
+	background-color: #e52b2e;
+}
+.mynavbar{font-family:cursive;
+	font-size: :40px;
+	background: linear-gradient(to right,green,#737a79)
+
+}
+.my-link{
+	color: silver;
+;
+}
+body {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.tint {
+  background: linear-gradient(
+    rgba(0, 0, 0, .6),
+    rgba(0, 0, 0, .1)),
+    url("https://images.unsplash.com/photo-1420745981456-b95fe23f5753?dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb") 50% / cover fixed;
+  height: 100%;
+  padding: 1.5em;
+}
+
+h1 {
+  margin-bottom: .25em;
+}
+
+
+
+.withe{
+	 color: rgba(255, 255, 255, .95);
+}
+.card-block2{
+	background-color: silver;
+	height: 350px;
+}
+.intro{color: #52d8cb;
+	font-family: 'Lobster', cursive;
+}
+.coffee{
+	max-width: 87.6%
+}
+.card22{
+	border-color: transparent;
+}
+.card21{
+	border-color: transparent;
+	max-width: 97%
+}
